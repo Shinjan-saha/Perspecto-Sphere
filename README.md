@@ -2,4 +2,4 @@
 
 ## Connection
 
-<img src="./img/connection.jpg">
+<img src="./img/final-connection.jpg">
