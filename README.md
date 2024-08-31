@@ -2,4 +2,4 @@
 
 ## Connection
 
-<img src="./img/final-connection.jpg">
+<img src="./img/proteus-connection.png">
